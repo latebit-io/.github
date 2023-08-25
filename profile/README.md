@@ -34,6 +34,7 @@ We want to help you adopt a craftmanship mentality and reap the benefits of clea
 ## How to contact lateflip.io for more information or consultation?
 
 Please email: fritz@lateflip.io 
+We will evaluate if we are are the right fit for each other! 
 
 ## Why the name lateflip.io? 
 
