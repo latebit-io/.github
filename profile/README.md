@@ -31,6 +31,10 @@ We really value a high level quality of code, architecture, and thought into eve
 
 We want to help you adopt a craftmanship mentality and reap the benfits of cleanly built project, as we want and strive for in our own software and solutions. 
 
+## How to contact lateflip.io for more information or consultation?
+
+Please email: fritz@lateflip.io 
+
 ## Why the name lateflip.io? 
 
 Lateflip is a trick in skateboarding that takes experience to achieve and looks very impressive. We want companies to be impressed by our work and see the the fruition of our experience; so your company has the means to "late flip". But really it is just a name of a cool looking skateboarding trick, in the mentality of that trick is what we want to accomplish with our consulting and development. 
