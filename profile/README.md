@@ -9,7 +9,7 @@ We specialize in the following languages and frameworks:
 - node.js and typescript
 - rust
 
-We also offer infrastructure, architecture, automation, and platform engineering for distrubuted infrastucture such as microservices. We also can help with developing monolithic applications the `right way` for applications not ready to take on microservices infrastructure. We specialize in: 
+We also offer infrastructure, architecture, automation, and platform engineering for distrubuted infrastucture such as microservices. We also can help with developing monolithic (monolithic is not a bad thing) applications the `right way` for applications not ready to take on microservices infrastructure. We specialize in: 
 - kubernetes / docker
 - gitops
 - devops
