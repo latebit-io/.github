@@ -13,7 +13,7 @@ We also offer infrastructure, architecture, automation, and platform engineering
 - security
 - automation of workflows
 - events and eventing
-- databases relational and document
+- databases relational and document (postgres, mssql, mongoDB etc ...)
 - performance of platforms
 
 We develop: 
