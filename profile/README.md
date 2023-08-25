@@ -32,7 +32,7 @@ We really value a high level quality of code, architecture, and thought into eve
 We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects. We need and strive for in our own software and solutions. 
 
 ## How to contact lateflip.io for more information or consultation?
-Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development. 
+Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development.
 
 Please email: fritz@lateflip.io 
 We will evaluate if we are are the right fit for each other! 
