@@ -23,7 +23,7 @@ We develop:
 - monolithic applications
 - data modeling: database and events
 
-We offer consulting on all the above and can help your organization, platform, or application to be elevated, adaptable to change, and robust. 
+We offer consulting on all the above and can help your organization, platform, or application to be elevated to the next level, adaptable to change, and robust. 
 
 ## Why do we use and value the description craftmanship? 
 
