@@ -1,4 +1,4 @@
-## 🙋‍♀️ What this organization all about?
+## 🙋‍♀️ About lateflip.io
 
 Lateflip.io is a craftmanship consulting, contracting, and software development group. We specialize in the following languages and frameworks: 
 - .net c# and f#
