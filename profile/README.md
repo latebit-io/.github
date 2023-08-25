@@ -27,7 +27,7 @@ We offer consulting on all the above and can help your organization, platform, o
 
 ## Why do we use and value the description craftmanship? 
 
-We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be the best it can be, no marketing gimmicks, we simply we want the best developed technologies. So many platforms and applications simply fall apart or are hard to work with due to code rot and debt reaching critical mass.
+We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be the best it can be, no marketing gimmicks, we simply need the best developed technologies. So many platforms and applications simply fall apart or are hard to work with due to code rot and debt reaching critical mass.
 
 We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built project, as we want and strive for in our own software and solutions. 
 
