@@ -29,7 +29,7 @@ We offer consulting on all the above and can help your organization, platform, o
 
 We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be the best it can be, no maketing gimmicks, we simply we want the best developed techonologies. So many platforms and applications simply fall apart or are hard to work with due to code rot reaching critical mass.
 
-We want to help you adopt a craftmanship mentality and reap the benfits of cleanly built project, as we want and strive for in our own software and solutions. 
+We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built project, as we want and strive for in our own software and solutions. 
 
 ## How to contact lateflip.io for more information or consultation?
 
