@@ -1,6 +1,6 @@
 ## 🙋‍♀️ About lateflip.io
 
-Lateflip.io is a craftmanship consulting, contracting, and software development group (Yes, we have some of our own solutions). We love and support OSS, we open source most of our projects. Does this mean your solutions are free? 
+Lateflip.io is a craftmanship consulting, contracting, and software development group (Yes, we have some of our own solutions). We love and support OSS, we open source most of our projects. Does this mean our solutions are free? 
 
 Yes and no. Ideally we would want to contibute all our efforts to a free world, in reality this doesn't work as we need our lively hood to continue! However, we try to make our basic OSS solutions free, with paid/licensed advanced additions.
 
