@@ -2,12 +2,13 @@
 
 Lateflip.io is a craftmanship consulting, contracting, and software development group. We specialize in the following languages and frameworks: 
 - .net c# and f#
-- node.js and Typescript
-- Rust
+- node.js and typescript
+- rust
 
-We also offer infrastructure, architecture, automation, and platform engineering for distrubuted infrastucture such as microservices and we can help with developing monolithic applications the `right way` for applications not ready to take on microservices infrastructure. We specialize in: 
+We also offer infrastructure, architecture, automation, and platform engineering for distrubuted infrastucture such as microservices. We also can help with developing monolithic applications the `right way` for applications not ready to take on microservices infrastructure. We specialize in: 
 - kubernetes / docker
-- git ops
+- gitops
+- devops
 - continous intergration, continous delivery, and continous deployment
 - security
 - automation of workflows
@@ -22,11 +23,11 @@ We develop:
 - monolithic applications
 - data modeling: database and events
 
-We offer consulting on all the above and can help your organization, platform, or application to be high quality, adaptable to change, and robust. 
+We offer consulting on all the above and can help your organization, platform, or application to be elevated, adaptable to change, and robust. 
 
 ## Why do we use and value the description craftmanship? 
 
-We really value a high level quality of code, architecture and thought into every project, we want it to be the best it can be. So many platforms and applications simply fall apart and the time to production for new features or even a revisions start to degrade and overall hinders companies delivery, or worst case simply fail.
+We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be, the best it can be. So many platforms and applications simply fall apart or are hard to work with due to code rot reaching critical mass.
 
 We want to help you adopt a craftmanship mentality and reap the benfits of cleanly built project, as we want and strive for in our own software and solutions. 
 
