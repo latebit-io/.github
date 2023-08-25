@@ -37,7 +37,7 @@ Our ideal client is not doing work quick, dirty, or cheap. We work best with cli
 Please email: fritz@lateflip.io 
 We will evaluate if we are are the right fit for each other! 
 
-## Why the name lateflip.io? 
+## 🛹 Why the name lateflip.io? 
 
 Late flip is a trick in skateboarding that takes experience to achieve and looks very impressive. We want companies to be impressed by our work and see the the fruition of our experience; giving your company the means to "late flip". But really it is just a name of a impressive skateboarding trick, in the mentality of that trick is what we want to accomplish with our consulting and development. 
 
