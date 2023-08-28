@@ -33,9 +33,9 @@ We offer consulting on all the above and can help your organization, platform, o
 
 ## Why do we use and value the description craftmanship? 
 
-We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be the best it can be, no marketing gimmicks, we simply need the best developed technologies. So many platforms and applications fall apart or are obtuese and slow to work with due to code rot/debt reaching critical mass.
+We really value a high level quality of code, architecture, and thought into every project. We love technology and want it to be the best it can be, no marketing gimmicks, we simply need the best developed technologies. So many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass.
 
-We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects. We need and strive for in our own software and solutions. 
+We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects.
 
 ## How to contact lateflip.io for more information or consultation?
 Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development.
@@ -45,7 +45,7 @@ We will evaluate if we are are the right fit for each other!
 
 ## 🛹 Why the name lateflip.io? 
 
-Late flip is a trick in skateboarding that takes experience to achieve and looks very impressive. We want companies to be impressed by our work and see the the fruition of our experience; giving your company the means to "late flip". But really it is just a name of a impressive skateboarding trick, in the mentality of that trick is what we want to accomplish with our consulting and development. 
+Late flip is a trick in skateboarding that takes experience to achieve and looks very impressive. We want companies to be impressed by our work and see the the fruition of our experience; by giving your company the means to "late flip". But really it is just a name of a impressive skateboarding trick, in the mentality of that trick this is what we want to accomplish with our consulting and development. 
 
 
 <!--
