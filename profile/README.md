@@ -31,13 +31,13 @@ We develop:
 
 We offer consulting on all the above and can help your organization, platform, or application to be elevated to the next level, adaptable to change, and robust. 
 
-## Why do we use and value the description craftmanship? 
+## 🪚 Why do we use and value the description craftmanship? 
 
 We really value high quality code, well designed architecture, and we put a lot of thought into every project. We love technology and from our many years of experience there is nothing better than woking with a well crafted project. Unfortunately many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass. Some projects simply collapse due to poor planning and not factoring in enough time making deadlines unreasonably tight.   
 
 We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects.
 
-## How to contact lateflip.io for more information or consultation?
+## 📬 How to contact lateflip.io for more information or consultation?
 Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development.
 
 Please email: fritz@lateflip.io 
