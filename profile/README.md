@@ -2,9 +2,11 @@
 
 Lateflip.io is a craftmanship consulting, contracting, and software development group (Yes, we have some of our own solutions). We love and support OSS and we open source most of our projects. 
 
-#### Does this mean our solutions are free? 
+#### 💸 Does this mean our solutions are free? 
 
 Yes and no. Ideally we would want to contribute all our efforts to a free world, in reality this doesn't work as we need to pay the bills to continue! However, we try to make our basic OSS solutions free, with paid/licensed for advanced additions and features.
+
+#### 💻 What do we offer?
 
 We specialize in the following languages and frameworks: 
 - .net c# and f#
