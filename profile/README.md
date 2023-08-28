@@ -33,7 +33,7 @@ We offer consulting on all the above and can help your organization, platform, o
 
 ## Why do we use and value the description craftmanship? 
 
-We really value a high level quality of code, architecture, and thought into every project. We love technology and from our many years of experience there is nothing better than woking with a well crafted project. Unfortunately many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass. Some projects simply collapse due to poor planning and not factoring in enough time making deadlines unreasonably tight.   
+We really value high quality code, well designed architecture, and we put a lot of thought into every project. We love technology and from our many years of experience there is nothing better than woking with a well crafted project. Unfortunately many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass. Some projects simply collapse due to poor planning and not factoring in enough time making deadlines unreasonably tight.   
 
 We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects.
 
