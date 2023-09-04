@@ -1,6 +1,6 @@
 ## 🙋‍♀️ About lateflip.io
 
-Lateflip.io is a craftmanship consulting, contracting, and software development group (Yes :) we have some of our own solutions). 
+Lateflip.io is a craftmanship consulting, contracting, and software development group (Yes ☺ we have some of our own solutions). 
 
 We love to to do project based work and can help with your next big idea or project! We strive to keep relationships with all our clients and love to create partnerships even off the clock. When you need us again, we can hit the ground running! 
 
