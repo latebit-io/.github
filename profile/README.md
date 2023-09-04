@@ -4,7 +4,7 @@ Lateflip.io is a craftmanship consulting, contracting, and software development 
 
 We love to to do project based work and can help with your next big idea or project! We strive to keep relationships with all our clients and love to create partnerships. When you need us again, we can hit the ground running! 
 
-We love and support OSS and we open source most of our projects. 
+We love and support OSS 💗 We open source most of our self developed projects that can benefit or jump start your projects. 
 
 #### 💸 Does this mean our solutions are free? 
 
