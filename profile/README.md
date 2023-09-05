@@ -6,7 +6,7 @@ We love to do project based work and can help with your next big idea or project
 
 We love and support OSS 💗 We open source most of our self developed projects that can benefit or jump start your projects. 
 
-#### 💸 Does this mean latflip.io softwares are free? 
+#### 💸 Does this mean lateflip.io softwares are free? 
 
 Yes and no. Ideally we would want to contribute all our efforts to a free world, in reality this doesn't work as we need to pay the bills to continue! However, we try to make our basic OSS solutions free, with paid/licensed for advanced additions and features.
 
