@@ -1,6 +1,6 @@
 ## 🙋‍♀️ About lateflip.io
 
-Lateflip.io is a `startup` craftmanship consulting, contracting, and software development group (Yes ☺ we have some of our own solutions). 
+Lateflip.io is a `startup` crafty consulting, contracting, and software development group (Yes ☺ we have some of our own solutions). 
 
 We love to do project based work and can help with your next big idea or project! We strive to keep relationships with all our clients and love to create partnerships. When you need us again, we can hit the ground running! 
 
@@ -37,11 +37,11 @@ We develop:
 
 We offer consulting/contracting on all the above and can help your organization, platform, or application to be elevated to the next level, adaptable to change, and robust. 
 
-## 🪚 Why do we use and value the description craftmanship? 
+## 🪚 Why do we use and value the description crafty? 
 
 We really value high quality code, well designed architecture, and we put a lot of thought into every project. We love technology and from our many years of experience there is nothing better than woking with a well crafted project. Unfortunately many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass. Some projects simply collapse due to poor planning and not factoring in enough time making deadlines unreasonably tight.   
 
-We want to help you adopt a craftmanship mentality and reap the benefits of cleanly built projects.
+We want to help you adopt a craftmanship mentality and reap the benefits of well built projects.
 
 ## 📬 How to contact lateflip.io for more information or consultation?
 Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development.
