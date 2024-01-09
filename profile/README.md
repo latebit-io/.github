@@ -6,7 +6,7 @@ We love to do project based work and can help with your next big idea or project
 
 We love and support OSS 💗 We open source most of our self developed projects that can benefit or jump start your projects. 
 
-#### 💸 Does this mean lateflip.io softwares are free? 
+<!-- #### 💸 Does this mean lateflip.io softwares are free? 
 
 Yes and no. Ideally we would want to contribute all our efforts to a free world, in reality this doesn't work as we need to pay the bills to continue! However, we try to make our basic OSS solutions free, with paid/licensed for advanced additions and features.
 
@@ -41,7 +41,7 @@ We offer consulting/contracting on all the above and can help your organization,
 
 We really value high quality code, well designed architecture, and we put a lot of thought into every project. We love technology and from our many years of experience there is nothing better than woking with a well crafted project. Unfortunately many platforms and applications fall apart or are obtuse and slow to work with due to code rot/debt reaching critical mass. Some projects simply collapse due to poor planning and not factoring in enough time making deadlines unreasonably tight.   
 
-We want to help you adopt a craftmanship mentality and reap the benefits of well built projects.
+We want to help you adopt a craftmanship mentality and reap the benefits of well built projects. -->
 
 ## 📬 How to contact lateflip.io for more information or consultation?
 Our ideal client is not doing work quick, dirty, or cheap. We work best with clients who value the craftmanship of software development.
