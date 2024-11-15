@@ -1,3 +1,3 @@
-## 🤖 About latebitflip.io
+## 🤖 About latebit.io
 
-Latebitflip.io is a `experimental` workspace started by https://github.com/ontehfritz. 
+Latebit.io is a `experimental` workspace started by https://github.com/ontehfritz. 
