@@ -24,6 +24,8 @@ This is an **experimental** workspace for exploring new ideas, building developm
 ### 🔐 Authentication & Security
 - **[bulwarkauth](https://github.com/latebit-io/bulwarkauth)** - Development-focused auth service `Go` `MIT`
 - **[bulwark-auth-guard](https://github.com/latebit-io/bulwark-auth-guard)** - Go client for bulwark-auth `Go` `MIT`
+- **[bulwarkauthadmin](https://github.com/latebit-io/bulwarkauthadmin)** - Development-focused auth admin service for bulwarkauth `Go`
+- **[bulwarkauthadmin-ui](https://github.com/latebit-io/bulwarkauthadmin-ui)** Bulwark auth admin UI `Vue`
 - **[bulwarkauth-app-service](https://github.com/latebit-io/bulwarkauth-app-service)** - Example template for using bulwark with Go Echo `Go` `Template`
 
 ### 🛠️ Developer Tools
