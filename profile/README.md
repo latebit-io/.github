@@ -21,6 +21,10 @@ This is an **experimental** workspace for exploring new ideas, building developm
 
 ## 🚀 Featured Projects
 
+### Markdown protocol 
+- **[demarkus] (https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent `Go` `MIT`
+
+
 ### 🔐 Authentication & Security
 - **[bulwarkauth](https://github.com/latebit-io/bulwarkauth)** - Development-focused auth service `Go` `MIT`
 - **[bulwark-auth-guard](https://github.com/latebit-io/bulwark-auth-guard)** - Go client for bulwark-auth `Go` `MIT`
