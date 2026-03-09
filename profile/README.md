@@ -22,7 +22,9 @@ This is an **experimental** workspace for exploring new ideas, building developm
 ## 🚀 Featured Projects
 
 ### 📋 Markdown protocol 
-- **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent `Go` `MIT`
+- **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent
+  `Go` `MIT`
+- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Get you demarkus library to the public
 
 
 ### 🔐 Authentication & Security
