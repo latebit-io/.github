@@ -21,6 +21,9 @@ This is an **experimental** workspace for exploring new ideas, building developm
 
 ## 🚀 Featured Projects
 
+### Coding 
+- Junto - Agentic coding focused on code quality and achitecture COMING SOON
+
 ### 📋 Agent / Human Markdown protocol 
 - **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent
   `Go` `MIT`
