@@ -22,7 +22,7 @@ This is an **experimental** workspace for exploring new ideas, building developm
 ## 🚀 Featured Projects
 
 ### >_ Coding 
-- nib - Agentic coding focused on code quality and architecture [COMING SOON]
+- **[nib](https://github.com/latebit-io/nib)** - Agent, coding agent, and TUI agent development environment `Go`
 
 ### 📋 Agent / Human Markdown protocol 
 - **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent — includes Claude Code plugins (memory soul + knowledge system)
@@ -43,7 +43,6 @@ This is an **experimental** workspace for exploring new ideas, building developm
 - **[an-client](https://github.com/latebit-io/an-client)** - Go client for an `Go`
 
 ### 🛠️ Developer Tools
-- **[jean-claude-van-dev](https://github.com/latebit-io/jean-claude-van-dev)** - Configuration for a killer Claude Code experience `Shell`
 - **[go-hog](https://github.com/latebit-io/go-hog)** - Go client for MailHog `Go`
 
 ### 📐 Patterns & Architecture
