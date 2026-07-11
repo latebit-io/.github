@@ -25,19 +25,22 @@ This is an **experimental** workspace for exploring new ideas, building developm
 - nib - Agentic coding focused on code quality and architecture [COMING SOON]
 
 ### 📋 Agent / Human Markdown protocol 
-- **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent
+- **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent — includes Claude Code plugins (memory soul + knowledge system)
   `Go` `MIT`
-- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Get you demarkus library to the public
+- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Get your demarkus library to the public
+- **[demarkus-library](https://github.com/latebit-io/demarkus-library)** - A demarkus library FE reading room
+- **[demarkus-knowledge-system-deploy](https://github.com/latebit-io/demarkus-knowledge-system-deploy)** - Run a demarkus knowledge system on GKE — OpenTofu + ArgoCD GitOps + OpenBao, forkable template
+- **[demarkus-pi-memory](https://github.com/latebit-io/demarkus-pi-memory)** - demarkus memory extension for pi
+- **[demarkus-pi-knowledge](https://github.com/latebit-io/demarkus-pi-knowledge)** - demarkus knowledge system extension for pi
 - **[obsidian-demarkus](https://github.com/latebit-io/obsidian-demarkus)** - demarkus obsidian plugin
 - **[terse](https://github.com/latebit-io/terse)** - terse productivity agent mode
 
 
 ### 🔐 Authentication & Security
-- **[bulwarkauth](https://github.com/latebit-io/bulwarkauth)** - Development-focused auth service `Go` `MIT`
-- **[bulwark-auth-guard](https://github.com/latebit-io/bulwark-auth-guard)** - Go client for bulwark-auth `Go` `MIT`
-- **[bulwarkauthadmin](https://github.com/latebit-io/bulwarkauthadmin)** - Development-focused auth admin service for bulwarkauth `Go`
-- **[bulwarkauthadmin-ui](https://github.com/latebit-io/bulwarkauthadmin-ui)** Bulwark auth admin UI `Vue`
-- **[bulwarkauth-app-service](https://github.com/latebit-io/bulwarkauth-app-service)** - Example template for using bulwark with Go Echo `Go` `Template`
+- **[az](https://github.com/latebit-io/az)** - Micro authz service `Go`
+- **[az-client](https://github.com/latebit-io/az-client)** - Go client for az `Go`
+- **[an](https://github.com/latebit-io/an)** - Micro authn service `Go`
+- **[an-client](https://github.com/latebit-io/an-client)** - Go client for an `Go`
 
 ### 🛠️ Developer Tools
 - **[jean-claude-van-dev](https://github.com/latebit-io/jean-claude-van-dev)** - Configuration for a killer Claude Code experience `Shell`
