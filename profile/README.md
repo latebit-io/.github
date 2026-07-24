@@ -24,17 +24,16 @@ This is an **experimental** workspace for exploring new ideas, building developm
 ### >_ Coding 
 - **[nib](https://github.com/latebit-io/nib)** - Agent, coding agent, and TUI agent development environment `Go`
 
-### 📋 Agent / Human Markdown protocol 
-- **[demarkus](https://github.com/latebit-io/demarkus)** - De-centralized markdown for-us: human to agent, agent to human, agent to agent — includes Claude Code plugins (memory soul + knowledge system)
-  `Go` `MIT`
-- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Get your demarkus library to the public
-- **[demarkus-library](https://github.com/latebit-io/demarkus-library)** - A demarkus library FE reading room
-- **[demarkus-knowledge-system-deploy](https://github.com/latebit-io/demarkus-knowledge-system-deploy)** - Run a demarkus knowledge system on GKE — OpenTofu + ArgoCD GitOps + OpenBao, forkable template
+### 📚 Knowledge Base & Memory: demarkus
+- **[demarkus](https://github.com/latebit-io/demarkus)** - Mark Protocol: versioned markdown over QUIC. Personal knowledge server or broker-fronted org knowledge system. Shared versioned memory for humans and agents. `Go` `MIT`
+- **[Claude Code memory plugin](https://github.com/latebit-io/demarkus/tree/main/plugins/claude-code)** - Zero-config local memory (soul) for Claude Code
+- **[Claude Code knowledge plugin](https://github.com/latebit-io/demarkus/tree/main/plugins/claude-code-knowledge)** - Join an org knowledge system (broker-fronted, MCP OAuth)
+- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Public hub for discovering demarkus libraries
+- **[demarkus-library](https://github.com/latebit-io/demarkus-library)** - demarkus library reading room `Go`
+- **[demarkus-knowledge-system-deploy](https://github.com/latebit-io/demarkus-knowledge-system-deploy)** - demarkus knowledge system on GKE: OpenTofu + ArgoCD GitOps + OpenBao. Forkable template.
 - **[demarkus-pi-memory](https://github.com/latebit-io/demarkus-pi-memory)** - demarkus memory extension for pi
 - **[demarkus-pi-knowledge](https://github.com/latebit-io/demarkus-pi-knowledge)** - demarkus knowledge system extension for pi
 - **[obsidian-demarkus](https://github.com/latebit-io/obsidian-demarkus)** - demarkus obsidian plugin
-- **[terse](https://github.com/latebit-io/terse)** - terse productivity agent mode
-
 
 ### 🔐 Authentication & Security
 - **[az](https://github.com/latebit-io/az)** - Micro authz service `Go`
@@ -43,6 +42,7 @@ This is an **experimental** workspace for exploring new ideas, building developm
 - **[an-client](https://github.com/latebit-io/an-client)** - Go client for an `Go`
 
 ### 🛠️ Developer Tools
+- **[terse](https://github.com/latebit-io/terse)** - Agent rule to cut tokens and boilerplate
 - **[go-hog](https://github.com/latebit-io/go-hog)** - Go client for MailHog `Go`
 
 ### 📐 Patterns & Architecture
