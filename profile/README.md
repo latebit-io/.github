@@ -28,12 +28,10 @@ This is an **experimental** workspace for exploring new ideas, building developm
 - **[demarkus](https://github.com/latebit-io/demarkus)** - Mark Protocol: versioned markdown over QUIC. Personal knowledge server or broker-fronted org knowledge system. Shared versioned memory for humans and agents. `Go` `MIT`
 - **[Claude Code memory plugin](https://github.com/latebit-io/demarkus/tree/main/plugins/claude-code)** - Zero-config local memory (soul) for Claude Code
 - **[Claude Code knowledge plugin](https://github.com/latebit-io/demarkus/tree/main/plugins/claude-code-knowledge)** - Join an org knowledge system (broker-fronted, MCP OAuth)
-- **[demarkus-hub](https://github.com/latebit-io/demarkus-hub)** - Public hub for discovering demarkus libraries
 - **[demarkus-library](https://github.com/latebit-io/demarkus-library)** - demarkus library reading room `Go`
 - **[demarkus-knowledge-system-deploy](https://github.com/latebit-io/demarkus-knowledge-system-deploy)** - demarkus knowledge system on GKE: OpenTofu + ArgoCD GitOps + OpenBao. Forkable template.
 - **[demarkus-pi-memory](https://github.com/latebit-io/demarkus-pi-memory)** - demarkus memory extension for pi
 - **[demarkus-pi-knowledge](https://github.com/latebit-io/demarkus-pi-knowledge)** - demarkus knowledge system extension for pi
-- **[obsidian-demarkus](https://github.com/latebit-io/obsidian-demarkus)** - demarkus obsidian plugin
 
 ### 🔐 Authentication & Security
 - **[az](https://github.com/latebit-io/az)** - Micro authz service `Go`
